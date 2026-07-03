@@ -1,0 +1,6 @@
+{
+  "name": "Diploma Student Helper",
+  "description": "An educational platform and student community designed specially for diploma students across Maharashtra to access study materials, notes, lab manuals, and branch discussions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
